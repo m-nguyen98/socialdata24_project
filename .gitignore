@@ -1,0 +1,15 @@
+.DS_Store
+data/BeerAdvocate/beers.csv
+data/BeerAdvocate/breweries.csv
+data/BeerAdvocate/reviews.csv
+data/BeerAdvocate/reviews.csv.gz
+data/BeerAdvocate/reviews.txt.gz
+data/BeerAdvocate/users.csv
+data/RateBeer/beers.csv
+data/RateBeer/breweries.csv
+data/RateBeer/reviews.csv.gz
+data/RateBeer/reviews.txt.gz
+data/RateBeer/users.csv
+data/zip/BeerAdvocate.tar.gz
+data/zip/RateBeer.tar.gz
+data/zip/reviews.txt.gz
