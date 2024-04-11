@@ -1,4 +1,7 @@
 # Final Project - Social Data Analysis and Visualization (02806)
+
+The RateBeer and BeerAdvocate datasets can be found [here][https://drive.google.com/drive/folders/1vQVaTNa00pz7SlIkVxSPmEVMNQmzEaix?usp=sharing]
+
 ## Project Assignment A
 
 The first part of the final project is an 1 minute movie, which should explain the central idea/concept that you will investigate in your final project. You're making the movie so that the TAs and I can give you feedback, and so that other groups can steal your ideas (and you can steal ideas from them). The movie must contain the following:
