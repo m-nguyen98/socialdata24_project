@@ -1,6 +1,6 @@
 # Final Project - Social Data Analysis and Visualization (02806)
 
-The RateBeer and BeerAdvocate datasets can be found [here](https://drive.google.com/drive/folders/1vQVaTNa00pz7SlIkVxSPmEVMNQmzEaix?usp=sharing)
+The RateBeer and BeerAdvocate datasets can be requested by writing a mail to s194378@dtu.dk
 
 ## Project Assignment A
 
